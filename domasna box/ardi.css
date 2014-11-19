@@ -1,0 +1,19 @@
+body{
+	background: #624d4d;
+	padding: 150px 0px 0px 300px;
+}
+.article{
+	width: 256px;
+	height: 400px;
+	background: white;
+}
+.article1{
+	padding: 0px 0px 0px 20px;
+}
+.article1 i{
+	color: #a0d468;
+}
+.article img{
+	width: 256px;
+	height: 250px;
+	}

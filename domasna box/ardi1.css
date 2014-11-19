@@ -1,0 +1,39 @@
+body{
+	background: #624d4d;
+	padding: 300px 0px 0px 100px;
+}
+.downloadapp{
+	width: 250px;
+	height: 300px;
+	background-color: #a0d468;
+	padding: 50px 0px 0px 30px;
+	box-sizing: border-box;
+}
+.span{
+	margin-bottom: 20px;
+}
+.car{
+	font-size: 60px;
+	color:#ffffff;
+}
+.laptop{
+	font-size: 50px;
+	color:#ffffff;
+}
+.mobile{
+	font-size: 35px;
+	color:#ffffff;
+}
+.text{
+	font-size: 20px;
+}
+.button{
+	margin-top: 30px;
+}
+.button input{
+	background: black;
+	color: white;
+}
+.text{
+	color:#ffffff;
+}
