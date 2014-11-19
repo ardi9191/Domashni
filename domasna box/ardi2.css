@@ -1,0 +1,14 @@
+body{
+	background: #624d4d;
+
+}
+.article{
+	background:#fc6e51;
+	width: 220px;
+	height: 150px;
+}
+.article1{
+	padding: 10px 0px 0px 30px;
+	color:#fff;
+	border-spacing: 0px 0px 0px 30px;
+}
